@@ -9,6 +9,6 @@ Professor Davis is on an overseas sabbatical in London with spotty connectivity,
 * **Expected behavior:** Faculty portal logins, syllabus updates, and grade submissions originate exclusively from trusted campus network subnets. Routine gradebook updates occur during active school semesters and designated grading windows.
 
 ## Files in This Folder
-*'beginner.py' - Level 1 Subtle anomalies
-*'intermediate.py' - Level 2 Multi step threats
-*'advanced.py' - Level 3 Complex cyberattacks
+* **beginner.py :** Level 1 Subtle anomalies
+* **intermediate.py :** Level 2 Multi step threats
+* **advanced.py :** Level 3 Complex cyberattacks
