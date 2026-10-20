@@ -10,6 +10,6 @@ Manager Karen claims she was locked in her secure secure admin office doing pape
 * **Expected Behavior:** Cashiers log into their assigned point of sale registers during store operated hours, managers perform register overrides and administrative tasks from the secure admin office terminal, Safe or vault access is handled strictly within secure backoffice-zones.
 
 ## Files in This Folder
-*'beginner.py' - Level 1 Subtle anomalies
-*'intermediate.py' - Level 2 Multi step threats
-*'advanced.py' - Level 3 Complex cyberattacks
+* **beginner.py:** Level 1 Subtle anomalies
+* **intermediate.py:**  Level 2 Multi step threats
+* **advanced.py:** Level 3 Complex cyberattacks
