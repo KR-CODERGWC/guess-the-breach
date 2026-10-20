@@ -1,7 +1,7 @@
 # 🛫 Scenario: Airport Threat Hunting Lab
 
 ## 📖 Mission briefing Background Information 
-gate agents must manage boarding from secure internal terminals. Public guest Wi-Fi must never interact with baggage systems or flight control.
+Gate agents must manage boarding from secure internal terminals. Public guest Wi-Fi must never interact with baggage systems or flight control.
 
 ## 🔍 Network Baseline & Expectations
 * **Internal Network:** '10.50.x.x'
