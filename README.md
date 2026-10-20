@@ -20,6 +20,11 @@ Participants step into the shoes of a Security Operations Center (SOC) analyst o
 * **Log Analysis & Auditing:** Reading and interpreting event logs, transaction histories, and user access records.
 * **Threat Hunting Methodology:** Establishing normal operational baselines to isolate abnormal behaviors.
 * **Incident Response Fundamentals:** Tracing the root cause and impact of security incidents from raw data output.
+* **Privilege Escalation:** Cyberattack where a threat actor alters or elevates their permissions in a target system, mainly by moving from a lower privilege user account to a higher level administration account.
+* **Data Exfiltration:** Intentional, unauthorized, covert transfer of data from a computer or other device. It can be conducted manually or automated using malware.
+* **Trojan Horse:** A computer program malware that disguises itself as legitimate software to trick users into downloading and running it.
+* **Salami Attack:** A cybercrime technique where an attacker steals tiny, unnoticeable amounts of money, data, or resources from a large number of accounts or transactions over time.
+* **Email Attack:** Technique that forges the sender identity and email headers so a message appears to originate from a trusted source.
 
 ---
 
