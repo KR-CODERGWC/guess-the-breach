@@ -9,6 +9,6 @@ Dr. Adams is officially scheduled to be attending a medical convention in Hawaii
 * **Expected behavior:** Routine charting and dosage verification during standard shifts.
 
 ## Files in This Folder
-*'beginner.py' - Level 1 Subtle anomalies
-*'intermediate.py' - Level 2 Multi step threats
-*'advanced.py' - Level 3 Complex cyberattacks
+* **beginner.py :** Level 1 Subtle anomalies
+* **intermediate.py :** Level 2 Multi step threats
+* **advanced.py :** Level 3 Complex cyberattacks
