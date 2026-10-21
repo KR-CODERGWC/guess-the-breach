@@ -15,7 +15,7 @@ data_beginner = [
 df = pd.DataFrame(data_beginner, columns=["TIME", "USER", "TARGET", "ACTION", "IP_ADDRESS"])
 
 #Print Beginner Log Title
-print("\n--- BEGINNER SOC INCIDENT LOG --")
+print("\n--- HOSPITAL BEGINNER SOC INCIDENT LOG --")
                   
 #Print cleanly without index numbers
 print(df.to_string(index=False))
