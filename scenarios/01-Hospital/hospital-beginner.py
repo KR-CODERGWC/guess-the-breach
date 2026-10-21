@@ -12,7 +12,7 @@ data = [
 
 
 #create DataFrame directly from your list data
-df = pd.DataFrame(data, columns=["TIME", "USER", "TARGET", "ACTION", "IP_ADDRESS"]
+df = pd.DataFrame(data, columns=["TIME", "USER", "TARGET", "ACTION", "IP_ADDRESS"])
 
 #Print Beginner Log Title
 print("\n--- BEGINNER SOC INCIDENT LOG --")
