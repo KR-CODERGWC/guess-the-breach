@@ -17,7 +17,7 @@ data_intermediate = [
 df = pd.DataFrame(data_intermediate, columns=["TIME", "USER", "TARGET", "ACTION", "IP ADDRESS"])
 
 #Label Log and chart
-print("\n--- INTERMEDIATE SOC INCIDENT LOG ---")
+print("\n--- HOSPITAL INTERMEDIATE SOC INCIDENT LOG ---")
 
 #Print cleanly without index numbers
 print(df.to_string(index=False))
