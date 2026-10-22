@@ -1,6 +1,6 @@
 import pandas as pd
 
-#Advanced dataset (10 entries)
+# Cashier Advanced dataset (10 entries)
 
 cash_adv_data = [
   ["17:00","Cashier_Sam","Reg_01","LOGIN","192.168.10.2"],
