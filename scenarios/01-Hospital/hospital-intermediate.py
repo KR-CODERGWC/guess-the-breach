@@ -2,7 +2,7 @@ import pandas as pd
 
 #Intermediate Dataset (8 entries)
 
-data_intermediate = [
+hos_data_intermediate = [
   ["13:00","Dr_Adams","P_201","VIEW_CHART","10.20.1.15"],
   ["13:20","Tech_Kyle","Pharmacy_DB","QUERY","10.20.9.50"],
   ["14:05","Dr_Adams","P_202","MOD_DOSE","10.20.5.88"],
@@ -14,7 +14,7 @@ data_intermediate = [
 ]
 
 #Create Intermediate Chart
-df = pd.DataFrame(data_intermediate, columns=["TIME", "USER", "TARGET", "ACTION", "IP ADDRESS"])
+df = pd.DataFrame(hos_data_intermediate, columns=["TIME", "USER", "TARGET", "ACTION", "IP ADDRESS"])
 
 #Label Log and chart
 print("\n--- HOSPITAL INTERMEDIATE SOC INCIDENT LOG ---")
