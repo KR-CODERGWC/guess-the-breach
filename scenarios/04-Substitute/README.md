@@ -9,6 +9,6 @@ Substitute teacher Pat is only cleared for classroom attendance and lesson plans
 * **Expected behavior:** Substitute teachers operate strictly within the assigned student/sub VLAN. Actions are limited to recording classroom attendance, reviweing lesson plans, and submitting daily student assignments during school hours.
 
 ## Files in This Folder
-* **beginner.py :** Level 1 Subtle anomalies
-* **intermediate.py :**  Level 2 Multi step threats
-* **advanced.py :** Level 3 Complex cyberattacks
+* **substitute-beginner.py :** Level 1 Subtle anomalies
+* **substitute-intermediate.py :**  Level 2 Multi step threats
+* **substitute-advanced.py :** Level 3 Complex cyberattacks
