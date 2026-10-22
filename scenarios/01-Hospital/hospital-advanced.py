@@ -2,7 +2,7 @@ import pandas as pd
 
 #Advanced dataset (10 entries)
 
-data_advanced = [
+hos_data_advanced = [
   ["22:00", "Sys-Maint", "Server_01", "UPDATE_RUN", "10.20.0.5"],
   ["22:10", "Sys_Maint", "Audit_Log", "PURGE", "10.20.0.5"],
   ["01:00", "Root_Admin", "Core_OS", "EXEC_SHELL", "192.168.1.1"],
@@ -16,7 +16,7 @@ data_advanced = [
 ]
 
 #Create data fram directly from list data
-df = pd.DataFrame(data_advanced, columns=["TIME", "USER", "TARGET", "ACTION", "IP_ADDRESS"])
+df = pd.DataFrame(hos_data_advanced, columns=["TIME", "USER", "TARGET", "ACTION", "IP_ADDRESS"])
 
 print("\n--- HOSPITAL ADVANCED SOC INCIDENT LOG ---")
 
