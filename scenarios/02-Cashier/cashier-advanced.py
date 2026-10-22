@@ -18,7 +18,7 @@ cash_adv_data = [
 #Create dataframe chart
 df = pd.DataFrame(cash_adv_data, columns=["TIME", "USER", "TARGET", "ACTION", "IP ADDRESS"])
 
-print("\n--- CASHIER INTERMEDIATE SOC INCIDENT LOG ---")
+print("\n--- CASHIER ADVANCED SOC INCIDENT LOG ---")
 
 #Print Dataframe without line numbers
 print(df.to_string(index=False))
