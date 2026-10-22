@@ -1,5 +1,6 @@
 import pandas as pd
 
+#beginner Dataset 6 enties
 cash_beg_data = [
   ["11:00", "Cashier_Sam", "Reg_01", "LOGIN", "192.168.10.2"],
   ["11:15", "Cashier_Sam", "TXN-001", "SALE", "192.168.10.2"],
