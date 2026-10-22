@@ -1,5 +1,6 @@
 import pandas as pd
 
+#Intermediate dataset (8 entries)
 cash_int_data = [
   ["14:00", "Cashier_Sam", "Reg_02", "LOGIN", "192.168.10.3"],
   ["14:30", "Cashier_Sam", "TXN-105", "SALE", "192.168.10.3"],
