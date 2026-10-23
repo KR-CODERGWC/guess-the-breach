@@ -8,6 +8,6 @@ Accounts should remain dormant during sleeping hours.
 * **Expected Behavior:** Customers check account balances, execute standard peer transfers, deposit funds, and pay bills from verified mobile app IP parameters during work hours. Accounts remain inactive or dormant during late night sleeping hours.
 
 ## Files in This Folder
-* **beginner.py :** Level 1 Subtle anomalies
-* **intermediate.py :**  Level 2 Multi step threats
-* **advanced.py :** Level 3 Complex cyberattacks
+* **finTech-beginner.py :** Level 1 Subtle anomalies
+* **finTech-intermediate.py :**  Level 2 Multi step threats
+* **finTech-advanced.py :** Level 3 Complex cyberattacks
