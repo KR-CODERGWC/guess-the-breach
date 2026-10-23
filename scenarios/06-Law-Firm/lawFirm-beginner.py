@@ -1,6 +1,6 @@
 import pandas as pd
 
-#Law Firm Beginner Dataset (6 entires)
+#Law Firm Beginner Dataset (6 entries)
 
 law_beg_data = [
   ["09:00", "Partner_Sara", "Case_101", "VIEW", "172.10.1.5"],
