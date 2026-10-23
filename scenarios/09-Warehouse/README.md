@@ -8,6 +8,6 @@ Fulfillment centers track scanner terminals. Inventory counts dropping unexpecte
 * **Expected behavior:** Warehouse workers and pickers scan inventory boxes and pack orders from designated terminal IP ranges during standard shift hours. Forklift operators load palates onto trucks at designated loading docks.
 
 ## Files in This Folder
-* **beginner.py :** Level 1 Subtle anomalies
-* **intermediate.py :**  Level 2 Multi step threats
-* **advanced.py :** Level 3 Complex cyberattacks
+* **warehouse-beginner.py :** Level 1 Subtle anomalies
+* **warehouse-intermediate.py :**  Level 2 Multi step threats
+* **warehouse-advanced.py :** Level 3 Complex cyberattacks
