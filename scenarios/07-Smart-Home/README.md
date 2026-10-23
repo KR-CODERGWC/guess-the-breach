@@ -9,9 +9,9 @@ Homeowners are away on a weekend road trip, but living room cameras are toggled 
 * **Expected Behavior:** Trusted family devices communicate locally on the home Wi-Fi subnet for routine automation, such as adjusting thermostats, streaming security cameras, and arming alarm systems.
 
 ## Files in This Folder
-* **beginner.py :** Level 1 Subtle anomalies
-* **intermediate.py :**  Level 2 Multi step threats
-* **advanced.py :** Level 3 Complex cyberattacks 
+* **smartHome-beginner.py :** Level 1 Subtle anomalies
+* **smartHome-intermediate.py :**  Level 2 Multi step threats
+* **smartHome-advanced.py :** Level 3 Complex cyberattacks 
 
 
 
