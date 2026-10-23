@@ -9,7 +9,7 @@ Corporate law firms handle high-stakes mergers.
 * **Expected behavior:** Legal partners and paralegals access active case files, draft memos, and handle document filings from internal corporate work stations during standard business hours.
 
 ## Files in This Folder
-* **beginner.py :** Level 1 Subtle anomalies
-* **intermediate.py :**  Level 2 Multi step threats
-* **advanced.py :** Level 3 Complex cyberattacks
+* **lawFirm-beginner.py :** Level 1 Subtle anomalies
+* **lawFirm-intermediate.py :**  Level 2 Multi step threats
+* **lawFirm-advanced.py :** Level 3 Complex cyberattacks
 
